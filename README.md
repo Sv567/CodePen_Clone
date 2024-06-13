@@ -1,6 +1,9 @@
 # CodePen Clone -
 
-Welcome to the CodePen Clone project! This front-end project replicates the functionality of CodePen, enabling users to write HTML, CSS, JS, and React code snippets and instantly see the results.
+Welcome to the CodePen Clone project! 
+This front-end project replicates the functionality of CodePen, enabling users to write HTML, CSS, JS, and React code snippets and instantly see the results.
+
+### Live Preview - https://sv567.github.io/CodePen_Clone/
 
 ## Features -
 
@@ -12,7 +15,7 @@ Welcome to the CodePen Clone project! This front-end project replicates the func
 
 
 ## Technologies Used
-#### React: ##### A JavaScript library for building user interfaces.
+#### React: A JavaScript library for building user interfaces.
 #### HTML & CSS: Standard markup and styling languages for web development.
 #### JavaScript (JS): A programming language used to add interactivity and dynamic behavior to web pages.
 #### Tailwind CSS: A utility-first CSS framework for building custom designs quickly.
